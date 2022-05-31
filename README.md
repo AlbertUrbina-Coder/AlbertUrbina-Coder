@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @albertUrbinaCode
-- I’m interested in Python, Java, PHP and frontend tecnologies
+- I’m interested in Python, Java and frontend tecnologies
 - I’m currently learning software programming and I have participated in small projects
 - I’m looking to collaborate on in diversite tipe of projects just to still learning
 - You can reach me at albert.abraham.urbina@gmail.com
